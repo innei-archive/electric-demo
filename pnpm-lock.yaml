@@ -38,8 +38,8 @@ importers:
         specifier: 3.16.1
         version: 3.16.1(@types/eslint@9.6.0)(eslint@9.8.0)(typescript@5.5.4)
       concurrently:
-        specifier: 8.2.2
-        version: 8.2.2
+        specifier: 9.2.1
+        version: 9.2.1
       dotenv-cli:
         specifier: 7.4.2
         version: 7.4.2
@@ -447,43 +447,43 @@ importers:
     dependencies:
       '@nestjs/cache-manager':
         specifier: 2.2.2
-        version: 2.2.2(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.1))(cache-manager@5.7.2)(rxjs@7.8.1)
+        version: 2.2.2(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2))(cache-manager@5.7.2)(rxjs@7.8.2)
       '@nestjs/common':
         specifier: 10.3.10
-        version: 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1)
+        version: 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/config':
         specifier: 3.2.3
-        version: 3.2.3(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(rxjs@7.8.1)
+        version: 3.2.3(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(rxjs@7.8.2)
       '@nestjs/core':
         specifier: 10.3.10
-        version: 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.1)
+        version: 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/event-emitter':
         specifier: 2.0.4
-        version: 2.0.4(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.1))
+        version: 2.0.4(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2))
       '@nestjs/jwt':
         specifier: 10.2.0
-        version: 10.2.0(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))
+        version: 10.2.0(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))
       '@nestjs/passport':
         specifier: 10.0.3
-        version: 10.0.3(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(passport@0.7.0)
+        version: 10.0.3(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(passport@0.7.0)
       '@nestjs/platform-fastify':
         specifier: 10.3.10
-        version: 10.3.10(@fastify/static@7.0.4)(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.1))
+        version: 10.3.10(@fastify/static@7.0.4)(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2))
       '@nestjs/platform-socket.io':
         specifier: 10.3.10
-        version: 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/websockets@10.3.10)(rxjs@7.8.1)
+        version: 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(rxjs@7.8.2)
       '@nestjs/schedule':
         specifier: 4.1.0
-        version: 4.1.0(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.1))
+        version: 4.1.0(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2))
       '@nestjs/testing':
         specifier: 10.3.10
-        version: 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.1))
+        version: 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2))
       '@nestjs/throttler':
         specifier: 6.0.0
-        version: 6.0.0(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.1))(reflect-metadata@0.2.2)
+        version: 6.0.0(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2))(reflect-metadata@0.2.2)
       '@nestjs/websockets':
         specifier: 10.3.10
-        version: 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/core@10.3.10)(@nestjs/platform-socket.io@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.1)
+        version: 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@10.3.10)(@nestjs/platform-socket.io@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@packages/drizzle':
         specifier: workspace:*
         version: link:../drizzle
@@ -1340,9 +1340,11 @@ packages:
 
   '@esbuild-kit/core-utils@3.3.2':
     resolution: {integrity: sha512-sPRAnw9CdSsRmEtnsl2WXWdyquogVpB3yZ3dgwJfe8zrOzTsV7cJvmwrKVa+0ma5BoiGJ+BoqkMvawbayKUsqQ==}
+    deprecated: 'Merged into tsx: https://tsx.is'
 
   '@esbuild-kit/esm-loader@2.6.5':
     resolution: {integrity: sha512-FxEMIkJKnodyA1OaCUoEvbYRkoZlLZ4d/eXFu9Fh8CbBBgP5EmZxrfTRyN0qpXZ4vOvqnE5YdRdcrmUUXuU+dA==}
+    deprecated: 'Merged into tsx: https://tsx.is'
 
   '@esbuild/aix-ppc64@0.19.12':
     resolution: {integrity: sha512-bmoCYyWdEL3wDQIVbcyzRyeKLgk2WtWLTWz1ZIAZF/EGbNOwSA6ew3PftJ1PqMiOOGu0OyFMzG53L0zqIpPeNA==}
@@ -1930,6 +1932,7 @@ packages:
 
   '@eslint-react/tools@1.7.0':
     resolution: {integrity: sha512-0cdxCQsUdDaeh+S+anC1oqwiCz61cjZDorGfgl4lJ0vZkWx4qJz4WR+O/b+eRxedS5RBZB1j4HBnO/Zxj4zQEQ==}
+    deprecated: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
 
   '@eslint-react/types@1.7.0':
     resolution: {integrity: sha512-nMNHd87/e/nn776crgogOxFZTlsUavnfTUQIOY5EoqZRCNw4jr+zpCpVZPPE9XW4Ryh/oHDdTHYpudpq8mLg2w==}
@@ -2665,21 +2668,27 @@ packages:
 
   '@scalar/snippetz-core@0.1.4':
     resolution: {integrity: sha512-NMnDzl5dHgUj0k8ZtfssDfy6wv1wO/M+GhpdGr/4OH3m8UZB27CZ3hM7wXh+fm75hZO5XIBsANW20kJVnzpaHg==}
+    deprecated: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
 
   '@scalar/snippetz-plugin-js-fetch@0.1.1':
     resolution: {integrity: sha512-9ODfi0OaEvZHdCe09c91eH1R5QPynL+FPxtYuK/9K5ElRE2NqxYysri9AsgOhr1Fqhpy5qKzDj4Gi5FHsJSGXw==}
+    deprecated: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
 
   '@scalar/snippetz-plugin-js-ofetch@0.1.1':
     resolution: {integrity: sha512-fPIJlY4q1j5gbnsYSxix0IJ7hqcvm8Ly7iVoK66vaL738AIMiGZMhGKtLrTVPad77PimwO+jeq5iDIZ495UY7Q==}
+    deprecated: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
 
   '@scalar/snippetz-plugin-node-fetch@0.1.2':
     resolution: {integrity: sha512-kD6erA6aAqjHkj+JrJQKqrqcH4fnCrLi2uYw16CmELIGtqVHFau7ew2c087y4OQTltdi5rEk2zj5zOBu9yaS3Q==}
+    deprecated: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
 
   '@scalar/snippetz-plugin-node-ofetch@0.1.1':
     resolution: {integrity: sha512-9NpvdMKebg82FkVWoWyOxd1JXAB8KNxmrsFFwQKNjhAw0A5hjNR5oW9lD+FtB1Laupg2FNtw9dcCydnF+LcCWw==}
+    deprecated: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
 
   '@scalar/snippetz-plugin-node-undici@0.1.6':
     resolution: {integrity: sha512-CivUl7wgZ6vlUb01FMdqOt/NVyOWqT0iHZRp5YlPp1pflXZLnAyi5antUTtBEUHUtHM2EO/WR7vx4kRsPcrgLg==}
+    deprecated: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
 
   '@scalar/snippetz@0.1.6':
     resolution: {integrity: sha512-z3DEpT/FIZq9yeHL/tz2v6WvdHIiZ4uvK96RdeTPKUUJ0IXvA5vONG3PF5LE0Q/408PCzWsZpGs9f97ztaeJSQ==}
@@ -2699,6 +2708,7 @@ packages:
   '@scalar/use-tooltip@1.0.2':
     resolution: {integrity: sha512-bj3RkmGGtCPNgEuopNLOXfQtFM3KnsfAQc9LQEr6iC9FNUa+Ddrlq85wgAK4W740aducchrgK+fBZDpXQbzQTw==}
     engines: {node: '>=18'}
+    deprecated: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
 
   '@sinclair/typebox@0.27.8':
     resolution: {integrity: sha512-+Fj43pSMwJs4KRrH/938Uf+uAELIgVBmQzg/q1YG10djyfA3TnrU8N8XzqCh/okZdszqBQTZf96idMfE5lnwTA==}
@@ -3941,9 +3951,9 @@ packages:
   concat-map@0.0.1:
     resolution: {integrity: sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==}
 
-  concurrently@8.2.2:
-    resolution: {integrity: sha512-1dP4gpXFhei8IOtlXRE/T/4H88ElHgTiUzh71YUmtjTEHMSRS2Z/fgOxHSxxusGHogsRfxNq1vyAwxSC+EVyDg==}
-    engines: {node: ^14.13.0 || >=16.0.0}
+  concurrently@9.2.1:
+    resolution: {integrity: sha512-fsfrO0MxV64Znoy8/l1vVIjjHa29SZyyqPgQBwhiDcaW8wJc2W3XWVOGx4M3oJBnv/zdUZIIp1gDeS98GzP8Ng==}
+    engines: {node: '>=18'}
     hasBin: true
 
   confbox@0.1.7:
@@ -4121,10 +4131,6 @@ packages:
   dargs@7.0.0:
     resolution: {integrity: sha512-2iy1EkLdlBzQGvbweYRFxmFath8+K7+AKB0TlhHWkNuH+TmovaMH/Wp7V7R4u7f4SnX3OgLsU9t1NI9ioDnUpg==}
     engines: {node: '>=8'}
-
-  date-fns@2.30.0:
-    resolution: {integrity: sha512-fnULvOpxnC5/Vg3NCiWelDsLiUc9bRwAPs/+LfTLNvetFCtCTN+yQz15C/fs4AwX1R9K5GLtLfn8QW+dWisaAw==}
-    engines: {node: '>=0.11'}
 
   dateformat@3.0.3:
     resolution: {integrity: sha512-jyCETtSl3VMZMWeRo7iY1FL19ges1t55hMo5yaam4Jrsm5EPL89UQkoQRyiI+Yf4k8r2ZpdngkV8hr1lIdjb3Q==}
@@ -4572,6 +4578,7 @@ packages:
   eslint-plugin-markdown@5.1.0:
     resolution: {integrity: sha512-SJeyKko1K6GwI0AN6xeCDToXDkfKZfXcexA6B+O2Wr2btUS9GrC+YgwSyVli5DJnctUHjFXcQ2cqTaAmVoLi2A==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
+    deprecated: Please use @eslint/markdown instead
     peerDependencies:
       eslint: '>=8'
 
@@ -5128,6 +5135,7 @@ packages:
   git-raw-commits@2.0.11:
     resolution: {integrity: sha512-VnctFhw+xfj8Va1xtfEqCUD2XDrbAPSJx+hSrE5K7fGdjZruW7XV+QOrN7LF/RJyvspRiD2I0asWsxFp0ya26A==}
     engines: {node: '>=10'}
+    deprecated: This package is no longer maintained. For the JavaScript API, please use @conventional-changelog/git-client instead.
     hasBin: true
 
   git-remote-origin-url@2.0.0:
@@ -5137,6 +5145,7 @@ packages:
   git-semver-tags@4.1.1:
     resolution: {integrity: sha512-OWyMt5zBe7xFs8vglMmhM9lRQzCWL3WjHtxNNfJTMngGym7pC1kh8sP6jevfydJ6LP3ZvGxfb6ABYgPUM0mtsA==}
     engines: {node: '>=10'}
+    deprecated: This package is no longer maintained. For the JavaScript API, please use @conventional-changelog/git-client instead.
     hasBin: true
 
   gitconfiglocal@1.0.0:
@@ -5162,20 +5171,23 @@ packages:
   glob@10.4.2:
     resolution: {integrity: sha512-GwMlUF6PkPo3Gk21UxkCohOv0PLcIXVtKyLlpEI28R/cO/4eNOdmLk3CMW1wROV/WR/EsZOWAfBbBOqYvs88/w==}
     engines: {node: '>=16 || 14 >=14.18'}
+    deprecated: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
     hasBin: true
 
   glob@10.4.5:
     resolution: {integrity: sha512-7Bv8RF0k6xjo7d4A/PxYLbUCfb6c+Vpd2/mB2yRDlew7Jb5hEXiCD9ibfO7wpk8i4sevK6DFny9h7EYbM3/sHg==}
+    deprecated: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
     hasBin: true
 
   glob@11.0.0:
     resolution: {integrity: sha512-9UiX/Bl6J2yaBbxKoEBRm4Cipxgok8kQYcOPEhScPwebu2I0HoQOuYdIO6S3hLuWoZgpDpwQZMzTFxgpkyT76g==}
     engines: {node: 20 || >=22}
+    deprecated: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
     hasBin: true
 
   glob@7.2.3:
     resolution: {integrity: sha512-nFR0zLpU2YCaRxwoCJvL6UvCH2JFyFVIvwTLsIf21AuHlMskA1hhTdk+LlYJtOlYt9v6dvszD2BGRqBL+iQK9Q==}
-    deprecated: Glob versions prior to v9 are no longer supported
+    deprecated: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
 
   globals@11.12.0:
     resolution: {integrity: sha512-WOBp/EEGUiIsJSp7wcv/y6MO+lV9UoncWqxuFfm8eBwzWNgyfBd6Gz+IeKQ9jCmyhoH99g15M3T+QaVHFjizVA==}
@@ -6214,6 +6226,7 @@ packages:
 
   mvdan-sh@0.10.1:
     resolution: {integrity: sha512-kMbrH0EObaKmK3nVRKUIIya1dpASHIEusM13S4V1ViHFuxuNxCo+arxoa6j/dbV22YBGjl7UKJm9QQKJ2Crzhg==}
+    deprecated: See https://github.com/mvdan/sh/issues/1145
 
   mz@2.7.0:
     resolution: {integrity: sha512-z81GNO7nnYMEhrGh9LeymoE4+Yr0Wn5McHIZMK5cfQCl+NDX08sCZgUc9/6MHni9IWuFLm1Z3HTCXu2z9fN62Q==}
@@ -6279,6 +6292,7 @@ packages:
   node-domexception@1.0.0:
     resolution: {integrity: sha512-/jKZoMpw0F8GRwl4/eLROPA3cfcXtLApP0QzLmUT/HuPCZWyB7IY9ZrMeKw2O/nFIqPQB3PVM9aYm0F312AXDQ==}
     engines: {node: '>=10.5.0'}
+    deprecated: Use your platform's native DOMException instead
 
   node-emoji@1.11.0:
     resolution: {integrity: sha512-wo2DpQkQp7Sjm2A0cq+sN7EHKO6Sl0ctXeBdFZrL9T9+UywORbufTcTZxom8YqpLQt/FqNMUkOpkZrJVYSKD3A==}
@@ -6784,6 +6798,7 @@ packages:
   prebuild-install@7.1.2:
     resolution: {integrity: sha512-UnNke3IQb6sgarcZIDU3gbMeTp/9SSU1DAIkil7PrqG1vZlBtY5msYccSKSHDqa3hNg436IXK+SNImReuA1wEQ==}
     engines: {node: '>=10'}
+    deprecated: No longer maintained. Please contact the author of the relevant native addon; alternatives are available.
     hasBin: true
 
   prelude-ls@1.2.1:
@@ -7252,6 +7267,9 @@ packages:
   rxjs@7.8.1:
     resolution: {integrity: sha512-AA3TVj+0A2iuIoQkWEK/tqFjBq2j+6PO6Y0zJcvzLAFhEFIO3HL0vls9hWLncZbAAbK0mar7oZ4V079I/qPMxg==}
 
+  rxjs@7.8.2:
+    resolution: {integrity: sha512-dhKf903U/PQZY6boNNtAGdWbG85WAbjT/1xYoZIC7FAY0yWapOBQVsVrDl58W86//e1VpMNBtRV4MaXfdMySFA==}
+
   safe-buffer@5.1.2:
     resolution: {integrity: sha512-Gd2UZBJDkXlY7GbJxfsE8/nvKkUEU1G38c1siN6QP6a9PT9MmHB8GnpscSmMJSoF8LOIrt8ud/wPtojys4G6+g==}
 
@@ -7348,8 +7366,9 @@ packages:
     resolution: {integrity: sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==}
     engines: {node: '>=8'}
 
-  shell-quote@1.8.1:
-    resolution: {integrity: sha512-6j1W9l1iAs/4xYBI1SYOVZyFcCis9b4KCLQ8fgAGG07QvzaRLVVRQvAy85yNmmZSjYjg4MWh4gNvlPujU/5LpA==}
+  shell-quote@1.8.3:
+    resolution: {integrity: sha512-ObmnIF4hXNg1BqhnHmgbDETF8dLPCggZWBjkQfhZpbszZnYur5DUljTcCHii5LC3J5E0yeO/1LIMyH+UvHQgyw==}
+    engines: {node: '>= 0.4'}
 
   shimmer@1.2.1:
     resolution: {integrity: sha512-sQTKC1Re/rM6XyFM6fIAGHRPVGvyXfgzIDvzoq608vM+jeyVD0Tu1E6Np0Kc2zAIFWIj963V2800iF/9LPieQw==}
@@ -7467,12 +7486,10 @@ packages:
   source-map@0.8.0-beta.0:
     resolution: {integrity: sha512-2ymg6oRBpebeZi9UUNsgQ89bhx01TcTkmNTGnNO88imTmbSgy4nfujrgVEFKWpMTEGA11EDkTt7mqObTPdigIA==}
     engines: {node: '>= 8'}
+    deprecated: The work that was done in this beta branch won't be included in future versions
 
   space-separated-tokens@2.0.2:
     resolution: {integrity: sha512-PEGlAwrG8yXGXRjW32fGbg66JAlOAwbObuqVoJpv/mRgoWDQfgH1wDPvtzWyUSNAXBGSk8h755YDbbcEy3SH2Q==}
-
-  spawn-command@0.0.2:
-    resolution: {integrity: sha512-zC8zGoGkmc8J9ndvml8Xksr1Amk9qBujgbF0JAIWO7kXr43w0h/0GJNM/Vustixu+YE8N/MTrQ7N31FvHUACxQ==}
 
   spdx-correct@3.2.0:
     resolution: {integrity: sha512-kN9dJbvnySHULIluDHy32WHRUu3Og7B9sbY7tsFLctQkIqnMh3hErYgdMjTYuqmcXX+lK5T1lnUt3G7zNswmZA==}
@@ -7679,6 +7696,7 @@ packages:
   tar@6.2.1:
     resolution: {integrity: sha512-DZ4yORTwrbTj/7MZYq2w+/ZFdI6OZ/f9SFHR+71gIVUZhOQPHzVCLpvRnPgyaMpfWxxk/4ONva3GQSyNIKRv6A==}
     engines: {node: '>=10'}
+    deprecated: Old versions of tar are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
 
   temp-dir@3.0.0:
     resolution: {integrity: sha512-nHc6S/bwIilKHNRgK/3jlhDoIHcp45YgyiwcAk46Tr0LfEqGBVpmiAyuiuxeVE44m3mXnEeVhaipLOEWmH+Njw==}
@@ -10278,6 +10296,13 @@ snapshots:
       cache-manager: 5.7.2
       rxjs: 7.8.1
 
+  '@nestjs/cache-manager@2.2.2(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2))(cache-manager@5.7.2)(rxjs@7.8.2)':
+    dependencies:
+      '@nestjs/common': 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2)
+      '@nestjs/core': 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+      cache-manager: 5.7.2
+      rxjs: 7.8.2
+
   '@nestjs/cli@10.4.2(@swc/cli@0.4.0(@swc/core@1.7.3)(chokidar@3.6.0))(@swc/core@1.7.3)(esbuild@0.21.5)':
     dependencies:
       '@angular-devkit/core': 17.3.8(chokidar@3.6.0)
@@ -10344,6 +10369,14 @@ snapshots:
       tslib: 2.6.3
       uid: 2.0.2
 
+  '@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2)':
+    dependencies:
+      iterare: 1.2.1
+      reflect-metadata: 0.2.2
+      rxjs: 7.8.2
+      tslib: 2.6.3
+      uid: 2.0.2
+
   '@nestjs/config@3.2.3(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(rxjs@7.8.1)':
     dependencies:
       '@nestjs/common': 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1)
@@ -10351,6 +10384,14 @@ snapshots:
       dotenv-expand: 10.0.0
       lodash: 4.17.21
       rxjs: 7.8.1
+
+  '@nestjs/config@3.2.3(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(rxjs@7.8.2)':
+    dependencies:
+      '@nestjs/common': 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2)
+      dotenv: 16.4.5
+      dotenv-expand: 10.0.0
+      lodash: 4.17.21
+      rxjs: 7.8.2
 
   '@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.1)':
     dependencies:
@@ -10368,15 +10409,43 @@ snapshots:
     transitivePeerDependencies:
       - encoding
 
+  '@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2)':
+    dependencies:
+      '@nestjs/common': 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2)
+      '@nuxtjs/opencollective': 0.3.2
+      fast-safe-stringify: 2.1.1
+      iterare: 1.2.1
+      path-to-regexp: 3.2.0
+      reflect-metadata: 0.2.2
+      rxjs: 7.8.2
+      tslib: 2.6.3
+      uid: 2.0.2
+    optionalDependencies:
+      '@nestjs/websockets': 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@10.3.10)(@nestjs/platform-socket.io@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+    transitivePeerDependencies:
+      - encoding
+
   '@nestjs/event-emitter@2.0.4(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.1))':
     dependencies:
       '@nestjs/common': 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1)
       '@nestjs/core': 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.1)
       eventemitter2: 6.4.9
 
+  '@nestjs/event-emitter@2.0.4(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2))':
+    dependencies:
+      '@nestjs/common': 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2)
+      '@nestjs/core': 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+      eventemitter2: 6.4.9
+
   '@nestjs/jwt@10.2.0(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))':
     dependencies:
       '@nestjs/common': 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1)
+      '@types/jsonwebtoken': 9.0.5
+      jsonwebtoken: 9.0.2
+
+  '@nestjs/jwt@10.2.0(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))':
+    dependencies:
+      '@nestjs/common': 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@types/jsonwebtoken': 9.0.5
       jsonwebtoken: 9.0.2
 
@@ -10390,6 +10459,11 @@ snapshots:
       '@nestjs/common': 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1)
       passport: 0.7.0
 
+  '@nestjs/passport@10.0.3(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(passport@0.7.0)':
+    dependencies:
+      '@nestjs/common': 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2)
+      passport: 0.7.0
+
   '@nestjs/platform-fastify@10.3.10(@fastify/static@7.0.4)(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.1))':
     dependencies:
       '@fastify/cors': 9.0.1
@@ -10397,6 +10471,20 @@ snapshots:
       '@fastify/middie': 8.3.1
       '@nestjs/common': 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1)
       '@nestjs/core': 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.1)
+      fastify: 4.28.0
+      light-my-request: 5.13.0
+      path-to-regexp: 3.2.0
+      tslib: 2.6.3
+    optionalDependencies:
+      '@fastify/static': 7.0.4
+
+  '@nestjs/platform-fastify@10.3.10(@fastify/static@7.0.4)(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2))':
+    dependencies:
+      '@fastify/cors': 9.0.1
+      '@fastify/formbody': 7.4.0
+      '@fastify/middie': 8.3.1
+      '@nestjs/common': 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2)
+      '@nestjs/core': 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       fastify: 4.28.0
       light-my-request: 5.13.0
       path-to-regexp: 3.2.0
@@ -10416,10 +10504,29 @@ snapshots:
       - supports-color
       - utf-8-validate
 
+  '@nestjs/platform-socket.io@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(rxjs@7.8.2)':
+    dependencies:
+      '@nestjs/common': 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2)
+      '@nestjs/websockets': 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@10.3.10)(@nestjs/platform-socket.io@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+      rxjs: 7.8.2
+      socket.io: 4.7.5
+      tslib: 2.6.3
+    transitivePeerDependencies:
+      - bufferutil
+      - supports-color
+      - utf-8-validate
+
   '@nestjs/schedule@4.1.0(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.1))':
     dependencies:
       '@nestjs/common': 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1)
       '@nestjs/core': 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.1)
+      cron: 3.1.7
+      uuid: 10.0.0
+
+  '@nestjs/schedule@4.1.0(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2))':
+    dependencies:
+      '@nestjs/common': 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2)
+      '@nestjs/core': 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       cron: 3.1.7
       uuid: 10.0.0
 
@@ -10470,16 +10577,22 @@ snapshots:
     optionalDependencies:
       '@fastify/static': 7.0.4
 
-  '@nestjs/testing@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.1))':
+  '@nestjs/testing@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2))':
     dependencies:
-      '@nestjs/common': 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1)
-      '@nestjs/core': 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.1)
+      '@nestjs/common': 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2)
+      '@nestjs/core': 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       tslib: 2.6.3
 
   '@nestjs/throttler@6.0.0(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.1))(reflect-metadata@0.2.2)':
     dependencies:
       '@nestjs/common': 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1)
       '@nestjs/core': 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.1)
+      reflect-metadata: 0.2.2
+
+  '@nestjs/throttler@6.0.0(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2))(reflect-metadata@0.2.2)':
+    dependencies:
+      '@nestjs/common': 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2)
+      '@nestjs/core': 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       reflect-metadata: 0.2.2
 
   '@nestjs/websockets@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/core@10.3.10)(@nestjs/platform-socket.io@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.1)':
@@ -10493,6 +10606,18 @@ snapshots:
       tslib: 2.6.3
     optionalDependencies:
       '@nestjs/platform-socket.io': 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.1))(@nestjs/websockets@10.3.10)(rxjs@7.8.1)
+
+  '@nestjs/websockets@10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@10.3.10)(@nestjs/platform-socket.io@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2)':
+    dependencies:
+      '@nestjs/common': 10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2)
+      '@nestjs/core': 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+      iterare: 1.2.1
+      object-hash: 3.0.0
+      reflect-metadata: 0.2.2
+      rxjs: 7.8.2
+      tslib: 2.6.3
+    optionalDependencies:
+      '@nestjs/platform-socket.io': 10.3.10(@nestjs/common@10.3.10(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/websockets@10.3.10)(rxjs@7.8.2)
 
   '@nodelib/fs.scandir@2.1.5':
     dependencies:
@@ -12458,14 +12583,11 @@ snapshots:
 
   concat-map@0.0.1: {}
 
-  concurrently@8.2.2:
+  concurrently@9.2.1:
     dependencies:
       chalk: 4.1.2
-      date-fns: 2.30.0
-      lodash: 4.17.21
-      rxjs: 7.8.1
-      shell-quote: 1.8.1
-      spawn-command: 0.0.2
+      rxjs: 7.8.2
+      shell-quote: 1.8.3
       supports-color: 8.1.1
       tree-kill: 1.2.2
       yargs: 17.7.2
@@ -12678,10 +12800,6 @@ snapshots:
       - postcss
 
   dargs@7.0.0: {}
-
-  date-fns@2.30.0:
-    dependencies:
-      '@babel/runtime': 7.25.0
 
   dateformat@3.0.3: {}
 
@@ -16271,6 +16389,10 @@ snapshots:
     dependencies:
       tslib: 2.6.3
 
+  rxjs@7.8.2:
+    dependencies:
+      tslib: 2.6.3
+
   safe-buffer@5.1.2: {}
 
   safe-buffer@5.2.1: {}
@@ -16377,7 +16499,7 @@ snapshots:
 
   shebang-regex@3.0.0: {}
 
-  shell-quote@1.8.1: {}
+  shell-quote@1.8.3: {}
 
   shimmer@1.2.1: {}
 
@@ -16506,8 +16628,6 @@ snapshots:
       whatwg-url: 7.1.0
 
   space-separated-tokens@2.0.2: {}
-
-  spawn-command@0.0.2: {}
 
   spdx-correct@3.2.0:
     dependencies:
