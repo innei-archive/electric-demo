@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@auth/core": "0.34.1",
-    "@auth/drizzle-adapter": "1.4.1",
-    "typescript": "^5.5.3"
+    "@auth/drizzle-adapter": "1.11.1",
+    "typescript": "^5.9.3"
   }
 }
