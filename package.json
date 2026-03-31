@@ -39,7 +39,7 @@
     "eslint": "9.8.0",
     "eslint-plugin-react-hooks": "5.1.0-rc-941e1b4a-20240729",
     "eslint-plugin-simple-import-sort": "^12.1.1",
-    "fastify": "^4.28.1",
+    "fastify": "^5.0.0",
     "husky": "9.1.4",
     "lint-staged": "15.2.7",
     "prettier": "3.3.3",
